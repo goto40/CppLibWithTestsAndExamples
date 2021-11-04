@@ -5,7 +5,7 @@ A cookiecutter template for a C++ project (vscode) with one lib, unittests and e
 
 How to use, after installing cookiecutter (`pip install cookiecutter`):
 ```
-  cookiecutter https://github.com/goto40/CppLibWithTestsAndExamples/.git
+  cookiecutter https://github.com/goto40/CppLibWithTestsAndExamples.git
 ```
 
 Then enter the newly created repo and start programming (e.g. with vscode or manually)!
